@@ -1,29 +1,12 @@
-# unsplash-bulk
+# Unsplash Bulk
 
-## Project setup
-```
-npm install
-```
+## But couldn't there be a better name?
+There is almost certainly a better name for this app, you're correct. But does it get the point accros? Sort of. Listen, you win some you lose some alright?
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Well...what does it do?
+Geez, what's with all the questions? I mean c'mon what's a guy supposed to say! 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Justin...what does it do?
+This app will eventually allow you to search for images from Unsplash and allow you to select multiple of them, which you can then download in a .zip.
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It'll include a .txt with the photographers name and link to credit.
